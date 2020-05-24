@@ -1,0 +1,33 @@
+table{
+    width: fit-content;
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: -0.35em;
+    
+}
+td,th{
+    border: 1px solid black;
+    padding: 0 15px;
+}  
+td{
+    text-align: left;
+    padding: 0;
+}
+caption{
+    font-style: italic;
+}
+sup{
+    font-size: 11px;
+}
+.container:before {
+    content: '';
+    display: inline-block;
+    height: 100%;
+    vertical-align: middle;
+    
+}
+.container{
+    height: 100vh;
+    text-align: center;
+    
+}

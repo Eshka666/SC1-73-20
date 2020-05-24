@@ -1,0 +1,9 @@
+.one{
+    font-weight: bold;
+  }
+  .two{
+    text-decoration:underline;
+  }
+  .onetwo{
+    font-style: italic;
+  }

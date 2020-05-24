@@ -1,0 +1,21 @@
+table{
+    width: 200px;
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: -0.35em;
+    
+}
+td,th{
+    border: 1px solid black;
+    width: 60px;
+} 
+.container:before {
+    content: '';
+    display: inline-block;
+    height: 100%;
+    vertical-align: middle;
+    
+}
+.container{
+    height: 100vh;
+    text-align: center;
