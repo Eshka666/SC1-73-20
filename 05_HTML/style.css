@@ -1,0 +1,21 @@
+body{
+    padding-left: 40px;
+    padding-right: 40px;
+}
+.guidance, li, .form p, .one{
+    font-style: italic;
+}
+div{
+    width: 700px;
+}
+.title{
+    font-weight: bold;
+}
+div:nth-child(even){
+    float: right;
+    clear: right;
+}
+div:nth-child(2n+1){
+    float: left;
+    clear: left;
+}
