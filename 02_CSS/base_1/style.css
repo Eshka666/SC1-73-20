@@ -14,3 +14,11 @@
     height: 190px;
     background: url('cards.png') 284px -1401px;
 }
+.w3, .w2 {
+display: flex;
+}
+
+.w2 .two, .w2 .three {
+    margin-left: -100px;
+
+}
