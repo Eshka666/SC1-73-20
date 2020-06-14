@@ -1,0 +1,16 @@
+.one{
+    width: 140px;
+    height: 190px;
+    background: url('cards.png') 427px -204px;
+
+}
+.two{
+    width: 140px;
+    height: 190px;
+    background: url('cards.png') 139px -601px;
+}
+.three{
+    width: 140px;
+    height: 190px;
+    background: url('cards.png') 284px -1401px;
+}
