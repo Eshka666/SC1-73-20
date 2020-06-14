@@ -1,0 +1,29 @@
+@import "../link/link_to_style.css" print;
+header, main{
+    margin-left: 50px;
+    margin-right: 50px;
+  }
+.one{
+    font-style: italic;
+  }
+header img{
+    float: right;
+  }
+
+footer{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+  .back{
+      align-items: flex-start;
+  
+  }
+
+  .home{
+align-items: center;
+  }
+
+  .next{ 
+align-items: flex-end;
+  }
