@@ -1,0 +1,9 @@
+p { 
+    border-radius: 0 10px; 
+    border: solid 1px ;
+    margin: 10px;
+    padding: 10px;
+}
+ul {
+    list-style-image: url(logo-list.jpg); 
+}
