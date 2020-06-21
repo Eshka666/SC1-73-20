@@ -1,0 +1,26 @@
+.q1234{
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    background-color:#C0C0C0;
+}
+.q1{
+    width: 15em;
+background-color: grey;
+margin-bottom: 2em;
+
+}
+.q2{
+    margin-bottom: 2em;
+    background-color:#5c5858 ;
+}
+img{
+    width: 100px;
+    height: 100px;
+    float: right;
+    
+}
+.footer{
+    background-color: grey;
+    margin-bottom: 2em;
+}
